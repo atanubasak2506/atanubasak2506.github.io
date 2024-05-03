@@ -6,7 +6,7 @@ This is Atanu Basak from Bear, Delaware, USA,Experienced Analytics Specialist wi
 Work/Projects
 ====================================================================================================
 
-1.Employee Attrition Project: Attrition is a big problem of all the organization, sometime
+1. Employee Attrition Project: Attrition is a big problem of all the organization, sometime
 people leave their current job, when they are Not satisfied with their work, salary,
 promotion or could be due to another reason. The Human Resource Team collects
 different data from employees to identify the reasons for attrition. This data is created by
@@ -17,11 +17,11 @@ Overtime, Performance Rating, Salary hike, Years Since Last promotion etc.
 I did some exploratory data analysis to do the analysis on the attributes and tried to find
 the relationship between attributes and attrition field. I fit a few models, that can predict an
 employee if he/she will be having attrition.
-2.Fitting Regression Model to fit miles per gallon of cars: In this project, I tried to fit a
+2. Fitting Regression Model to fit miles per gallon of cars: In this project, I tried to fit a
 regression model to predict the miles per gallon of different car. For this project, I have
 chosen the from Kaggle website, I did some analysis using scatter plots, then fit Linear
 Regression, Lasso Regression and Ridge Regression and compared the accuracy of them.
-3.Loan Status Prediction: In this project, I am using logistic regression and random forest
+3. Loan Status Prediction: In this project, I am using logistic regression and random forest
 classifier to predict the chances of a loan getting paid. I have chosen Kaggle as the data
 source and after fitting the model, I have calculated the accuracy of both the model for
 model selection.
